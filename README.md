@@ -1,2 +1,2 @@
 # gitskills
-it is the first time it use git
+it is the first time I use git
