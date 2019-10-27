@@ -1,6 +1,6 @@
 # gitskills
-it is the first time I use git
-how to creat you file and put it in to git warehouse
+#it is the first time I use git
+#how to creat you file and put it in to git warehouse
 $mkdir name
 $cd name(go in to place)
 $pwd(Print Working Directory)
